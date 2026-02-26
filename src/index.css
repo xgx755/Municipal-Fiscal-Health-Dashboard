@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Source Sans 3", system-ui, sans-serif;
+  background-color: #FDFAF5;
+  color: #3A3A3A;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Playfair Display", Georgia, serif;
+}
