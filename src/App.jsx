@@ -51,7 +51,7 @@ export default function App() {
       <header className="bg-mc-navy text-white py-8">
         <div className="max-w-[1100px] mx-auto px-6">
           <h1 className="text-3xl font-display font-bold tracking-tight">
-            NC Municipal Fiscal Health Comparator
+            NC Municipal Fiscal Health Dashboard
           </h1>
           <p className="text-mc-stone mt-2 text-sm font-body font-medium tracking-wide">
             Peer benchmarking using NC Local Government Commission AFIR data
